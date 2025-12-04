@@ -1,6 +1,6 @@
 Package: randotools
 Title: Create Randomization Lists
-Version: 0.2.3
+Version: 0.2.4
 Authors@R: 
     c(person("Alan G", "Haynes", email = "alan.haynes@unibe.ch", 
              role = c("aut", "cre"),
@@ -20,9 +20,9 @@ VignetteBuilder: knitr
 Depends: R (>= 4.1)
 LazyData: true
 NeedsCompilation: no
-Packaged: 2025-11-05 10:55:41 UTC; haynes
+Packaged: 2025-11-28 10:09:08 UTC; haynes
 Author: Alan G Haynes [aut, cre] (ORCID:
     <https://orcid.org/0000-0003-1374-081X>)
 Maintainer: Alan G Haynes <alan.haynes@unibe.ch>
 Repository: CRAN
-Date/Publication: 2025-11-07 13:40:07 UTC
+Date/Publication: 2025-12-04 00:00:02 UTC
